@@ -17,6 +17,7 @@
 		976D3F5C1E5F1F3900F97783 /* CustomKVOUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 976D3F5B1E5F1F3900F97783 /* CustomKVOUITests.m */; };
 		976D3F6B1E5F1F7A00F97783 /* NSObject+KVO.m in Sources */ = {isa = PBXBuildFile; fileRef = 976D3F6A1E5F1F7A00F97783 /* NSObject+KVO.m */; };
 		976D3F6E1E6040D500F97783 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 976D3F6D1E6040D500F97783 /* Student.m */; };
+		976D3F711E6042CE00F97783 /* WMKVONotifying_Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 976D3F701E6042CE00F97783 /* WMKVONotifying_Student.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		976D3F6A1E5F1F7A00F97783 /* NSObject+KVO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+KVO.m"; sourceTree = "<group>"; };
 		976D3F6C1E6040D500F97783 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
 		976D3F6D1E6040D500F97783 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
+		976D3F6F1E6042CE00F97783 /* WMKVONotifying_Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMKVONotifying_Student.h; sourceTree = "<group>"; };
+		976D3F701E6042CE00F97783 /* WMKVONotifying_Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMKVONotifying_Student.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				976D3F6D1E6040D500F97783 /* Student.m */,
 				976D3F691E5F1F7A00F97783 /* NSObject+KVO.h */,
 				976D3F6A1E5F1F7A00F97783 /* NSObject+KVO.m */,
+				976D3F6F1E6042CE00F97783 /* WMKVONotifying_Student.h */,
+				976D3F701E6042CE00F97783 /* WMKVONotifying_Student.m */,
 				976D3F3F1E5F1F3800F97783 /* Main.storyboard */,
 				976D3F421E5F1F3800F97783 /* Assets.xcassets */,
 				976D3F441E5F1F3800F97783 /* LaunchScreen.storyboard */,
@@ -288,6 +293,7 @@
 			files = (
 				976D3F6B1E5F1F7A00F97783 /* NSObject+KVO.m in Sources */,
 				976D3F3E1E5F1F3800F97783 /* ViewController.m in Sources */,
+				976D3F711E6042CE00F97783 /* WMKVONotifying_Student.m in Sources */,
 				976D3F6E1E6040D500F97783 /* Student.m in Sources */,
 				976D3F3B1E5F1F3800F97783 /* AppDelegate.m in Sources */,
 				976D3F381E5F1F3800F97783 /* main.m in Sources */,
